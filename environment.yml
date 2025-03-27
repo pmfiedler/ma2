@@ -17,5 +17,6 @@ dependencies:
   - transformers
   - datasets
   - pytorch
+  - dotenv
   - pip:
     - ibm-watsonx-ai==1.2.9
